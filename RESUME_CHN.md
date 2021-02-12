@@ -2,7 +2,8 @@
 <p align="center">邮箱：bianjason@126.com | 电话：15801300762 | 微信：bianjason </p>
 
 ## 个人总结
-* 国外名校硕士学历，具备复合专业背景（统计、数学、计量经济、金融），曾在券商自营部门的量化团队有过实习经历，对量化研究与策略有很强兴趣
+* 国外名校硕士学历，具备复合专业背景（统计、数学、计量经济、金融），曾在券商自营部门的量化团队有过实习经历，对量化研究与策略有很强兴趣，希望能将其作为未来的主要职业发展方向
+* 原计划赴美读书，由于疫情原因正在gap year中，预计2021年8月开学，目前正在积极寻找实习机会，最快可3月初开始实习
 * 具有使用以下软件/工具应用经历：
 	* *Python（Pycharm，Jupyter Notebook）*：统计分析，编程等，并自主编写了基于python的[回测框架pyqbkt](https://github.com/bianjason2019/quant_finance)
 	* *万矿量化分析云平台*：因子回测，选股策略等
@@ -21,7 +22,7 @@
 * 奖项：伯克利工程院Fung Excellence奖学金
 <br />
 
-**剑桥大学**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2018-10至2019-06**
+**剑桥大学**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2018-10至2019-06**
 
 金融学 研究型硕士 (M.Phi in Finance)
 * *成绩： 一等成绩（Pass with Distinction），专业第2名、前8%*
@@ -35,7 +36,7 @@
 * *成绩：一等荣誉学位（统计院前5%)*
 * 相关课程：应用统计（R），贝叶斯统计，计量经济学（Stata），高等数学，时间序列分析，宏观微观经济学
 * R相关技能：回归模型（LM，GLM），时间序列（ARIMA，State-Space模型，GARCH），线性与非线性优化，贝叶斯模型（MCMC），医学统计
-<br />
+
 ---
 
 ## 研究经历
@@ -52,7 +53,7 @@
 ---
 
 ## 实习工作经历
-**天风证券 固定收益自营总部**
+**天风证券 固定收益自营总部**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2020-08至2021-02**
 
 量化研究助理实习生
 * 参与量化策略的开发与测试，协助复现、验证多种策略，包括量价指标、行业轮动、多因子、基本面因子选股等策略
@@ -62,14 +63,14 @@
 * 收集、阅读相关研究报告与中外文献，为策略开发提供新的思路或逻辑
 <br />
 
-**东兴证券 研究所**
+**东兴证券 研究所**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2020-08至2020-10**
 
 宏观策略实习生
 * 对居民收入与消费行为进行了详尽深度研究，从社会资源分布，居民资产负债表，收入冲击及个人消费倾向等多种角度对疫情期间的消费变化做出分析，收集相关数据与研究文献，并结合国内外历史疫情冲击的复苏案例，对疫情后消费复苏趋势做出推断
 * 跟踪经济指标，整合、更新数据库，收集学术资料，使用多种研究方法建立计量模型
 <br />
 
-**[256 Capital Partners](https://www.256.capital/)**
+**[256 Capital Partners](https://www.256.capital/)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2020-04至2020-06**
 
 数据科学实习生
 * 协助开发以机器学习模型（随机森林）为基础的比特币永续合约策略，使用Python编写交易框架，并使用AWS云计算服务（Cloudwatch，Lambda，SageMaker等）配置交易自动化流程
@@ -77,7 +78,7 @@
 * 协助制作策略回测框架，通过参数敏感性测试分析最佳特征选择方案，并使用时序交叉验证测量模型的过拟合度，提高了模型的稳定性
 <br />
 
-**[NERA经济咨询](https://www.nera.com/) 伦敦总部**
+**[NERA经济咨询](https://www.nera.com/) 伦敦总部**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2019-07至2019-10**
 
 监管金融实习生
 * 为能源，自来水及航空工业的英国本土客户提供监管合规方向咨询服务，服务对象包括英国机场、英国北部电力集团等
@@ -86,7 +87,7 @@
 * 负责编辑，更新及改良其他行业的资本结构模型，并定期结合市场与监管为客户撰写分析报告
 <br />
 
-**EVO资产管理有限公司 香港分部**
+**EVO资产管理有限公司 香港分部**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2017-08至2017-09**
 
 股权研究实习生
 * 对游戏娱乐行业展开市场研究，并使用Excel为某大型游戏设备生产商搭建金融建模，包括主营业务与财务结构分析等，同时使用DCF模型对股权价值的估值与预测，并独立完成20页英文研究分析报告
@@ -95,6 +96,6 @@
 ## 社团活动
 **[DataGrasp](datagrasp.co.uk)**
 
-创始人
+创始人及COO
 * 作为非盈利数据咨询机构，DataGrasp旨在为对数据科学感兴趣的高校学生提供参与咨询项目的机会；目前已成功举办了多期数据咨询项目，多个参与者获得加入创业公司团队的邀请
 * 个人职责包括：为公司制定中长期发展策略，优化业务结构运营，管理数据咨询项目，协调项目进度追踪，挖掘潜在客户需求
