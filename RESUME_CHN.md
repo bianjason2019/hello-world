@@ -4,37 +4,38 @@
 ## 个人总结
 * 国外名校硕士学历，具备复合专业背景（统计、数学、计量经济、金融），曾在券商自营部门的量化团队有过实习经历，对量化研究与策略有很强兴趣
 * 具有使用以下软件/工具应用经历：
-	* Python（Pycharm，Jupyter Notebook）：统计分析，编程等，并自主编写了基于python的[回测框架pyqbkt](https://github.com/bianjason2019/quant_finance)
-	* 万矿量化分析云平台：因子回测，选股策略等
-	* R：时间序列，统计学习，面板分析，计量经济，可视化，金融数据分析等
-  	* Bloomberg，Wind，iFund等数据库
-  	* MySQL
-* 工作效率高，适应力与解决问题能力强，具有严谨的研究精神，具备良好的中英文沟通写作能力
+	* *Python（Pycharm，Jupyter Notebook）*：统计分析，编程等，并自主编写了基于python的[回测框架pyqbkt](https://github.com/bianjason2019/quant_finance)
+	* *万矿量化分析云平台*：因子回测，选股策略等
+	* *R*：时间序列，统计学习，面板分析，计量经济，可视化，金融数据分析等
+  	* *Bloomberg，Wind，iFund*等数据库
+  	* *MySQL*
+* 工作细心严谨，自学能力与适应力强，具有较强执行力与团队合作能力，具备良好的中英文沟通写作能力
 ---
 
 ## 教育经历
-**加州大学-伯克利分校** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021-08至2022-06
+**加州大学-伯克利分校** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2021-08至2022-06**
 
-工业工程与运筹学 硕士 (Industrial Engineering and Operations Research) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;伯克利
+工业工程与运筹学 硕士 (M.Eng in Industrial Engineering and Operations Research)
 * 原计划2020年秋季入学，因疫情原因gap year迟至2021年秋季入学
 * 主要学习内容包括机器学习，金融风险管理，工程管理等
 * 奖项：伯克利工程院Fung Excellence奖学金
 <br />
 
-**剑桥大学**
+**剑桥大学**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2018-10至2019-06**
 
-金融学 研究型硕士
+金融学 研究型硕士 (M.Phi in Finance)
 * *成绩： 一等成绩（Pass with Distinction），专业第2名、前8%*
 * 相关课程：资产定价（因子模型体系研究），企业金融，微观经济学，固定收益，财务会计，应用计量经济学（R语言）
 * 相关论文：分析机器学习（R语言）的在预测个人信贷中的有效性与可行性
 <br />
 
-**伦敦大学学院**
+**伦敦大学学院**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2015-10至2018-06**
 
-经济学与统计学 学士
-* 成绩：一等荣誉学位（统计院前5%)
+经济学与统计学 学士 (BSc in Economics and Statistics)
+* *成绩：一等荣誉学位（统计院前5%)*
 * 相关课程：应用统计（R），贝叶斯统计，计量经济学（Stata），高等数学，时间序列分析，宏观微观经济学
-* R相关技能：回归模型（LM，GLM），时间序列（ARIMA，State-Space模型，GARCH），线性与非线性优化，贝叶斯模型（MCMC），医学统计模型
+* R相关技能：回归模型（LM，GLM），时间序列（ARIMA，State-Space模型，GARCH），线性与非线性优化，贝叶斯模型（MCMC），医学统计
+<br />
 ---
 
 ## 研究经历
@@ -55,15 +56,18 @@
 
 量化研究助理实习生
 * 参与量化策略的开发与测试，协助复现、验证多种策略，包括量价指标、行业轮动、多因子、基本面因子选股等策略
-* 独立编写了基于python的回测框架pyqbkt，结构简单，具有较好的拓展性，能够快速回测、对比多种策略性能验证，能够检测策略的过拟合程度
+* 独立编写了基于python的回测框架pyqbkt，结构简单，具有较好的拓展性，能够快速回测、对比多个策略的性能，并检测策略参数的过拟合程度
 * 监控、可视化宏观经济指标动态，展开对宏观风险因子的研究，验证、测试大类资产的配置策略与逻辑
 * 制作行业指数周报生成器，可自动化生成行业指数的监控数据及其可视化图表
+* 收集、阅读相关研究报告与中外文献，为策略开发提供新的思路或逻辑
+<br />
 
 **东兴证券 研究所**
 
 宏观策略实习生
 * 对居民收入与消费行为进行了详尽深度研究，从社会资源分布，居民资产负债表，收入冲击及个人消费倾向等多种角度对疫情期间的消费变化做出分析，收集相关数据与研究文献，并结合国内外历史疫情冲击的复苏案例，对疫情后消费复苏趋势做出推断
 * 跟踪经济指标，整合、更新数据库，收集学术资料，使用多种研究方法建立计量模型
+<br />
 
 **[256 Capital Partners](https://www.256.capital/)**
 
@@ -71,4 +75,26 @@
 * 协助开发以机器学习模型（随机森林）为基础的比特币永续合约策略，使用Python编写交易框架，并使用AWS云计算服务（Cloudwatch，Lambda，SageMaker等）配置交易自动化流程
 * 协助制定交易数据收集、清理的特征工程，并使用PCA对数据降维，有效提高了模型在回测期及测试集的预测精确度
 * 协助制作策略回测框架，通过参数敏感性测试分析最佳特征选择方案，并使用时序交叉验证测量模型的过拟合度，提高了模型的稳定性
+<br />
 
+**[NERA经济咨询](https://www.nera.com/) 伦敦总部**
+
+监管金融实习生
+* 为能源，自来水及航空工业的英国本土客户提供监管合规方向咨询服务，服务对象包括英国机场、英国北部电力集团等
+* 使用Bloomberg，FactSet获取数据资料，独立负责对能源行业进行债券成本、权益成本及加权平均资本成本指标的估值
+* 使用时间序列模型（ARIMA，GARCH等）对资本成本指标进行预测
+* 负责编辑，更新及改良其他行业的资本结构模型，并定期结合市场与监管为客户撰写分析报告
+<br />
+
+**EVO资产管理有限公司 香港分部**
+
+股权研究实习生
+* 对游戏娱乐行业展开市场研究，并使用Excel为某大型游戏设备生产商搭建金融建模，包括主营业务与财务结构分析等，同时使用DCF模型对股权价值的估值与预测，并独立完成20页英文研究分析报告
+* 协助投资组合经理对亚洲IPO历史数据进行量化分析与可视化；与卖方团队对接，参与多个IPO讨论会议与尽职调查等重要活动
+---
+## 社团活动
+**[DataGrasp](datagrasp.co.uk)**
+
+创始人
+* 作为非盈利数据咨询机构，DataGrasp旨在为对数据科学感兴趣的高校学生提供参与咨询项目的机会；目前已成功举办了多期数据咨询项目，多个参与者获得加入创业公司团队的邀请
+* 个人职责包括：为公司制定中长期发展策略，优化业务结构运营，管理数据咨询项目，协调项目进度追踪，挖掘潜在客户需求
