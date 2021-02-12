@@ -13,36 +13,62 @@
 ---
 
 ## 教育经历
-**加州大学伯克利分校-工程学院** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021-08至2022-06
+**加州大学-伯克利分校** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021-08至2022-06
 
-工业工程与运筹学 硕士 (Industrial Engineering and Operations Research) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;伯克利
-
+工业工程与运筹学 硕士 (Industrial Engineering and Operations Research) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;伯克利
 * 原计划2020年秋季入学，因疫情原因gap year迟至2021年秋季入学
 * 主要学习内容包括机器学习，金融风险管理，工程管理等
-* 奖项：Fung Excellence奖学金
+* 奖项：伯克利工程院Fung Excellence奖学金
+<br />
 
-**剑桥大学-商学院**
+**剑桥大学**
+
 金融学 研究型硕士
 * *成绩： 一等成绩（Pass with Distinction），专业第2名、前8%*
 * 相关课程：资产定价（因子模型体系研究），企业金融，微观经济学，固定收益，财务会计，应用计量经济学（R语言）
 * 相关论文：分析机器学习（R语言）的在预测个人信贷中的有效性与可行性
+<br />
 
-**伦敦大学学院-统计学院**
+**伦敦大学学院**
+
 经济学与统计学 学士
 * 成绩：一等荣誉学位（统计院前5%)
 * 相关课程：应用统计（R），贝叶斯统计，计量经济学（Stata），高等数学，时间序列分析，宏观微观经济学
 * R相关技能：回归模型（LM，GLM），时间序列（ARIMA，State-Space模型，GARCH），线性与非线性优化，贝叶斯模型（MCMC），医学统计模型
+---
 
 ## 研究经历
-* **社会学研究期刊 Quality of Live Research**
-	* 第一作者，主要负责研究的数据清理、分析、以及计量经济学模型等
+* **社会学研究-发表于期刊Quality of Live Research**
+	* 第一作者，主要负责研究的数据清理、分析，以及建造计量经济学模型
 	* 研究课题：家庭结构对于精神疾病患者的精神负担的影响
 	* 研究方法：随机效应面板模型
 	* Li, L.Z., Bian, J.Y. & Wang, S. Moving beyond family: unequal burden across mental health patients’ social networks. Qual Life Res (2021). https://doi.org/10.1007/s11136-021-02782-9
-* **数据科学期刊 Harvard Data Science Review**
+* **数据科学研究-发表于期刊Harvard Data Science Review**
 	* 研究助理，主要负责数据及资料收集、文献整理、以及统计模型等
 	* 研究课题：基于增长曲线的时间序列模型对新冠肺炎传播的预测性
 	* 研究方法：广义逻辑模型（Generalized Logistics），冈珀茨模型（Gompertz Model），卡尔曼滤波器
 	* https://hdsr.mitpress.mit.edu/pub/ozgjx0yn/release/2
+---
 
+## 实习工作经历
+**天风证券 固定收益自营总部**
+
+量化研究助理实习生
+* 参与量化策略的开发与测试，协助复现、验证多种策略，包括量价指标、行业轮动、多因子、基本面因子选股等策略
+* 独立编写了基于python的回测框架pyqbkt，结构简单，具有较好的拓展性，能够快速回测、对比多种策略性能验证，能够检测策略的过拟合程度
+* 监控、可视化宏观经济指标动态，展开对宏观风险因子的研究，验证、测试大类资产的配置策略与逻辑
+* 制作行业指数周报生成器，可自动化生成行业指数的监控数据及其可视化图表
+
+**东兴证券 研究所**
+
+宏观策略实习生
+* 对居民收入与消费行为进行了详尽深度研究，从社会资源分布，居民资产负债表，收入冲击及个人消费倾向等多种角度对疫情期间的消费变化做出分析，收集相关数据与研究文献，并结合国内外历史疫情冲击的复苏案例，对疫情后消费复苏趋势做出推断
+* 跟踪经济指标，整合、更新数据库，收集学术资料，使用多种研究方法建立计量模型
+
+**[256 Capital Partners](https://www.256.capital/)**
+
+数据科学实习生
+* 协助开发以机器学习模型（随机森林）为基础的比特币永续合约策略，使用Python编写交易框架，并使用AWS云计算服务（Cloudwatch，Lambda，SageMaker等）配置交易自动化流程
+* 协助制定交易数据收集、清理的特征工程，并使用PCA对数据降维，有效提高了模型在回测期及测试集的预测精确度
+* 协助制作策略回测框架，通过参数敏感性测试分析最佳特征选择方案，并使用时序交叉验证测量模型的过拟合度，提高了模型的稳定性
 
