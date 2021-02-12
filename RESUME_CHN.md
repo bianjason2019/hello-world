@@ -14,7 +14,7 @@
 ---
 
 ## 教育经历
-**加州大学-伯克利分校** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2021-08至2022-06**
+**加州大学-伯克利分校 2021-08至2022-06**
 
 工业工程与运筹学 硕士 (M.Eng in Industrial Engineering and Operations Research)
 * 原计划2020年秋季入学，因疫情原因gap year迟至2021年秋季入学
@@ -22,7 +22,7 @@
 * 奖项：伯克利工程院Fung Excellence奖学金
 <br />
 
-**剑桥大学**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2018-10至2019-06**
+**剑桥大学 2018-10至2019-06**
 
 金融学 研究型硕士 (M.Phi in Finance)
 * *成绩： 一等成绩（Pass with Distinction），专业第2名、前8%*
@@ -30,7 +30,7 @@
 * 相关论文：分析机器学习（R语言）的在预测个人信贷中的有效性与可行性
 <br />
 
-**伦敦大学学院**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2015-10至2018-06**
+**伦敦大学学院 2015-10至2018-06**
 
 经济学与统计学 学士 (BSc in Economics and Statistics)
 * *成绩：一等荣誉学位（统计院前5%)*
@@ -40,20 +40,21 @@
 ---
 
 ## 研究经历
-* **社会学研究-发表于期刊Quality of Live Research**
+* **社会学研究-发表于期刊 Quality of Live Research**
 	* 第一作者，主要负责研究的数据清理、分析，以及建造计量经济学模型
 	* 研究课题：家庭结构对于精神疾病患者的精神负担的影响
 	* 研究方法：随机效应面板模型
 	* Li, L.Z., Bian, J.Y. & Wang, S. Moving beyond family: unequal burden across mental health patients’ social networks. Qual Life Res (2021). https://doi.org/10.1007/s11136-021-02782-9
-* **数据科学研究-发表于期刊Harvard Data Science Review**
+	<br />
+* **数据科学研究-发表于期刊 Harvard Data Science Review**
 	* 研究助理，主要负责数据及资料收集、文献整理、以及统计模型等
 	* 研究课题：基于增长曲线的时间序列模型对新冠肺炎传播的预测性
-	* 研究方法：广义逻辑模型（Generalized Logistics），冈珀茨模型（Gompertz Model），卡尔曼滤波器
+	* 研究方法：广义逻辑模型（Generalized Logistics），冈珀茨模型（Gompertz Model），卡尔曼滤波器，状态空间模型等
 	* https://hdsr.mitpress.mit.edu/pub/ozgjx0yn/release/2
 ---
 
 ## 实习工作经历
-**天风证券 固定收益自营总部**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2020-08至2021-02**
+**天风证券 固定收益自营总部 2020-08至2021-02**
 
 量化研究助理实习生
 * 参与量化策略的开发与测试，协助复现、验证多种策略，包括量价指标、行业轮动、多因子、基本面因子选股等策略
@@ -63,14 +64,14 @@
 * 收集、阅读相关研究报告与中外文献，为策略开发提供新的思路或逻辑
 <br />
 
-**东兴证券 研究所**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2020-08至2020-10**
+**东兴证券 研究所 2020-08至2020-10**
 
 宏观策略实习生
 * 对居民收入与消费行为进行了详尽深度研究，从社会资源分布，居民资产负债表，收入冲击及个人消费倾向等多种角度对疫情期间的消费变化做出分析，收集相关数据与研究文献，并结合国内外历史疫情冲击的复苏案例，对疫情后消费复苏趋势做出推断
 * 跟踪经济指标，整合、更新数据库，收集学术资料，使用多种研究方法建立计量模型
 <br />
 
-**[256 Capital Partners](https://www.256.capital/)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2020-04至2020-06**
+**[256 Capital Partners](https://www.256.capital/)2020-04至2020-06**
 
 数据科学实习生
 * 协助开发以机器学习模型（随机森林）为基础的比特币永续合约策略，使用Python编写交易框架，并使用AWS云计算服务（Cloudwatch，Lambda，SageMaker等）配置交易自动化流程
@@ -78,7 +79,7 @@
 * 协助制作策略回测框架，通过参数敏感性测试分析最佳特征选择方案，并使用时序交叉验证测量模型的过拟合度，提高了模型的稳定性
 <br />
 
-**[NERA经济咨询](https://www.nera.com/) 伦敦总部**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2019-07至2019-10**
+**[NERA经济咨询](https://www.nera.com/) 伦敦总部 2019-07至2019-10**
 
 监管金融实习生
 * 为能源，自来水及航空工业的英国本土客户提供监管合规方向咨询服务，服务对象包括英国机场、英国北部电力集团等
@@ -87,7 +88,7 @@
 * 负责编辑，更新及改良其他行业的资本结构模型，并定期结合市场与监管为客户撰写分析报告
 <br />
 
-**EVO资产管理有限公司 香港分部**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**2017-08至2017-09**
+**EVO资产管理有限公司 香港分部 2017-08至2017-09**
 
 股权研究实习生
 * 对游戏娱乐行业展开市场研究，并使用Excel为某大型游戏设备生产商搭建金融建模，包括主营业务与财务结构分析等，同时使用DCF模型对股权价值的估值与预测，并独立完成20页英文研究分析报告
